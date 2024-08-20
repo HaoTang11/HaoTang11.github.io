@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hao Tang (唐昊) - Homepage"
+title                    : "Hao Tang (唐昊)"
 description              : "University of Chinese Academy of Science (UCAS)"
 repository               : "HaoTang11/HaoTang11.github.io"
 google_scholar_stats_use_cdn : true
