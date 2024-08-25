@@ -47,11 +47,11 @@ My research interest includes visual navigation, pose tracking and state estimat
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="2">
 
-[Model-based visual 3D pose tracking of non-cooperative spacecraft in Close Range](https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2024.1337262/full)
+[Model-based visual 3D pose tracking of non-cooperative spacecraft in Close Range](https://www.scopus.com/record/display.uri?eid=2-s2.0-85188015992&origin=resultslist&sort=plf-f&src=s&sid=7a981e86493143082ddaa46136eb64cf&sot=b&sdt=b&s=TITLE-ABS-KEY%28Model-based+visual+3D+pose+tracking+of+non-cooperative+spacecraft+in+Close+Range%29&sl=95&sessionSearchId=7a981e86493143082ddaa46136eb64cf&relpos=0)
 
 Chang Liu*, **Hao Tang**
 
-[**Paper**](https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2024.1337262/full)
+**Paper**
 - automatic extraction and parametrization for the 3D boundaries and 3D contour of a spacecraft
 - data correspondence based on truncated gaussian distribution
 - real-time pose determination based on minimization of segment-to-line distance
