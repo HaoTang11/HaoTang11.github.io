@@ -59,6 +59,26 @@ Chang Liu*, **Hao Tang**
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/paper3.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="3">
+
+Real-time Monocular 3D Pose Tracking for Non-cooperative Spacecraft in Close Range
+
+**Hao Tang**, Chang Liu*, Jia Liu, Pandeng Zhang, Weiduo Hu 
+
+**Paper**
+- automatic extraction and parametrization for the 3D boundaries and 3D contour of a spacecraft
+- data correspondence based on truncated gaussian distribution
+- real-time pose determination based on minimization of segment-to-line distance
+- the first-order inference to covariance matrix of the estimated pose.
+- automatic extraction and parameterization of the geometric features (arbitrary 3D boundaries and contour) given the spacecraft mesh model
+- 2D-3D correspondence based on conditional linear random field
+- real-time pose estimation in SE(3) based on Newton method
+- first-order pose covariance inference based on Cartesian noise model
+-  ESKF based on second-order autoregression in SE(3)
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - 2024.05	Merit Student Award (top 3%), University of Chinese Academy of Science, China
