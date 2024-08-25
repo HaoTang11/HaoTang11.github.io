@@ -29,7 +29,7 @@ My research interest includes visual navigation, pose tracking and state estimat
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pose tracking</div><img src='images/paper1-android-chrome-512x512.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Model-based monocular 6-degree-of-freedom pose tracking for asteroid](https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2024.1337262/full)
@@ -44,19 +44,19 @@ My research interest includes visual navigation, pose tracking and state estimat
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2024.05	Merit Student Award (top 3%), University of Chinese Academy of Science, China
+- 2023.03	Outstanding student award (top 5%), Shenzhen Institute of Advanced Technology, China
+- 2022.06	Graduation Thesis Awards (top 1%), Harbin Engineering University, China
+- 2022.06	Outstanding Graduate (top 3%), Harbin Engineering University, China
+- 2021.10	National Scholarship (top 1%), Ministry of Education, China
+- 2021.10	1st Prize (top 3%), Ti Cup National Undergraduate Electronic Design Contest, China
+- 2020.12	3rd Prize (top 15%), The Chinese Mathematics Competitions, China
+- 2020.10	3rd Prize (top 10%), China Undergraduate Mathematical Contest in Modeling, China
+- 2020.08	1st Prize (top 5%), Mathematical modeling of the three northeastern provinces League, China
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.10*, H. Tang. Model-based visual 3D pose tracking of non-cooperative spacecraft in Close Range, the 74th International Astronautical Congress, Baku, Azerbaijan, October 2023. (invited speaker)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.06-2023.08*, Java Developer (full-time intern), Huawei Technologies Co. Ltd., China
