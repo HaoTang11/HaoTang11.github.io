@@ -29,7 +29,7 @@ My research interest includes visual navigation, pose tracking and state estimat
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pose tracking</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Model-based monocular 6-degree-of-freedom pose tracking for asteroid](https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2024.1337262/full)
@@ -43,6 +43,22 @@ My research interest includes visual navigation, pose tracking and state estimat
 - we use 2nd-AR-based SCKF to give the final pose estimate and initialize the pose tracking at the next time instant. 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="2">
+
+[Model-based visual 3D pose tracking of non-cooperative spacecraft in Close Range](https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2024.1337262/full)
+
+Chang Liu*, **Hao Tang**
+
+[**Paper**](https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2024.1337262/full)
+- automatic extraction and parametrization for the 3D boundaries and 3D contour of a spacecraft
+- data correspondence based on truncated gaussian distribution
+- real-time pose determination based on minimization of segment-to-line distance
+- the first-order inference to covariance matrix of the estimated pose.
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - 2024.05	Merit Student Award (top 3%), University of Chinese Academy of Science, China
