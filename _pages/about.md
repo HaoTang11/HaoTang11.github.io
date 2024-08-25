@@ -45,7 +45,7 @@ My research interest includes visual navigation, pose tracking and state estimat
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="2">
+<div class='paper-box-text' markdown="1">
 
 [Model-based visual 3D pose tracking of non-cooperative spacecraft in Close Range](https://iafastro.directory/iac/paper/id/77170/summary/)
 
@@ -60,7 +60,7 @@ Chang Liu*, **Hao Tang**
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/paper3.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="3">
+<div class='paper-box-text' markdown="1">
 
 Real-time Monocular 3D Pose Tracking for Non-cooperative Spacecraft in Close Range
 
