@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hao Tang (唐昊)"
-description              : "A master student in Shenzhen Institude of Advanced Technology (深圳先进院数字所). Focusing on visual navigation, pose tracking and state estimation."
+description              : "A master student in Shenzhen Institude of Advanced Technology (中科院深圳先进院数字所). Focusing on visual navigation, pose tracking and state estimation."
 repository               : "HaoTang11/HaoTang11.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hao Tang (唐昊)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of Chinese Academy of Science (UCAS)"
+  bio              : "University of Chinese Academy of Science"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
