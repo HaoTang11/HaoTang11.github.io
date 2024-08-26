@@ -36,6 +36,8 @@ My research interest includes visual navigation, pose tracking and state estimat
 
 **Hao Tang**, Chang Liu* (supervisor), Yuzhu Su, Qiuyin Wang, Weiduo Hu
 
+Frontiers in Space Technologies
+
 [**Paper**](https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2024.1337262/full)
 - we propose a robust 2D-3D correspondence method based on the covariance of the pose.
 - we determine the asteroid pose by minimizing the angles between the projection planes of the extracted 3D contour segments and the back-projection lines of the corresponding 2D edge points.
@@ -45,13 +47,15 @@ My research interest includes visual navigation, pose tracking and state estimat
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="2">
 
 [Model-based visual 3D pose tracking of non-cooperative spacecraft in Close Range](https://iafastro.directory/iac/paper/id/77170/summary/)
 
 Chang Liu*, **Hao Tang**
 
-**Paper**
+Proceedings of the 74th International Astronautical Congress
+
+[**Paper**](https://github.com/HaoTang11/Working_Set/blob/main/%E4%BD%9C%E5%93%81%E9%9B%86/Model-based%20Visual%203D%20Pose%20Tracking%20of%20Non-cooperative%20Spacecraft%20in%20Close%20Range/%E8%AE%BA%E6%96%87.pdf)
 - automatic extraction and parametrization for the 3D boundaries and 3D contour of a spacecraft
 - data correspondence based on truncated gaussian distribution
 - real-time pose determination based on minimization of segment-to-line distance
@@ -60,13 +64,15 @@ Chang Liu*, **Hao Tang**
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/paper3.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="3">
 
 Real-time Monocular 3D Pose Tracking for Non-cooperative Spacecraft in Close Range
 
 **Hao Tang**, Chang Liu*, Jia Liu, Pandeng Zhang, Weiduo Hu 
 
-**Paper**
+IEEE Transactions on Instrumentation and Measurement, 2nd review 
+
+[**Part of paper**](https://github.com/HaoTang11/Working_Set/blob/main/%E4%BD%9C%E5%93%81%E9%9B%86/Real-time%20Monocular%203D%20Pose%20Tracking%20for%20Non-cooperative%20Spacecraft%20in%20Close%20Range/%E8%AE%BA%E6%96%87%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89.pdf)
 - automatic extraction and parameterization of the geometric features (arbitrary 3D boundaries and contour) given the spacecraft mesh model
 - 2D-3D correspondence based on conditional linear random field
 - real-time pose estimation in SE(3) based on Newton method
@@ -74,6 +80,27 @@ Real-time Monocular 3D Pose Tracking for Non-cooperative Spacecraft in Close Ran
 - ESKF based on second-order autoregression in SE(3)
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/paper4.mp4' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="4">
+
+Local Thin Plate Spline Descriptor for Aiding Marker-less Cerebral Artery Navigation Based on 3D Point Cloud Registration
+
+Qiuyin Wang, Chang Liu*, **Hao Tang**
+
+IEEE Transactions on Medical Imaging, under review
+
+**Part of Paper**
+- A robust local reference frame with scaling strategy
+- A local invariant point cloud descriptor is proposed based on thin plate spline
+- A feature matching algorithm is improved based on fully connected CRF with geometric constraints
+- The proposed descriptor and registration algorithm are applied to stimulation and real-world scenarios captured by depth camera and MRI images
+</div>
+</div>
+
+
+# 🔍 Projects
+
 
 
 # 🎖 Honors and Awards
@@ -91,4 +118,12 @@ Real-time Monocular 3D Pose Tracking for Non-cooperative Spacecraft in Close Ran
 - *2023.10*, H. Tang. Model-based visual 3D pose tracking of non-cooperative spacecraft in Close Range, the 74th International Astronautical Congress, Baku, Azerbaijan, October 2023. (invited speaker)
 
 # 💻 Internships
-- *2023.06-2023.08*, Java Developer (full-time intern), Huawei Technologies Co. Ltd., China
+***2023.06-2023.08*, Java Developer (full-time intern), Huawei Technologies Co. Ltd., China**
+- Code version maintenance, including code testing, updating and security
+- Code management for Huawei's corporate-level Code hosting services - Codehub, achieving 10,000+ response one day
+- Development of key functions of Codehub for users, finishing a user-friendly search interface finally
+***2023.09-2024.01*, TA (part-time), Shenzhen University of Advanced Technology, China**
+- Course name: Matrix Theory, one of the major courses for undergraduate students
+- Response to course related questions for 300+ students
+
+
