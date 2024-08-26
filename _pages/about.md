@@ -81,7 +81,7 @@ IEEE Transactions on Instrumentation and Measurement, 2nd review
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/paper4.mp4' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/paper4.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Local Thin Plate Spline Descriptor for Aiding Marker-less Cerebral Artery Navigation Based on 3D Point Cloud Registration
@@ -90,7 +90,7 @@ Qiuyin Wang, Chang Liu*, **Hao Tang**
 
 IEEE Transactions on Medical Imaging, under review
 
-**Part of Paper**
+[**Part of Paper**]([作品集/Local Thin Plate Spline Descriptor for Aiding Marker-less Cerebral Artery Navigation Based on 3D Point Cloud Registration/论文部分.pdf](https://github.com/HaoTang11/Working_Set/blob/main/%E4%BD%9C%E5%93%81%E9%9B%86/Local%20Thin%20Plate%20Spline%20Descriptor%20for%20Aiding%20Marker-less%20Cerebral%20Artery%20Navigation%20Based%20on%203D%20Point%20Cloud%20Registration/%E8%AE%BA%E6%96%87%E9%83%A8%E5%88%86.pdf))
 - A robust local reference frame with scaling strategy
 - A local invariant point cloud descriptor is proposed based on thin plate spline
 - A feature matching algorithm is improved based on fully connected CRF with geometric constraints
