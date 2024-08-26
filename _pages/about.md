@@ -17,14 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a master student in the [Shenzhen Institute of advanced technology](https://szs.siat.ac.cn/#/), Chinese Academy of science (中科院深圳先进技术研究院数字所）, mainly engaged in the research of computer vision  pose estimation and imitation learning.
-
+I am now a master student in the [Shenzhen Institute of advanced technology](https://szs.siat.ac.cn/#/), Chinese Academy of science (中科院深圳先进技术研究院数字所).
 I graduated from College of Intelligent Systems Science and Engineering, [Harbin engineering university](https://cisse.hrbeu.edu.cn/) (哈尔滨工程大学智能科学与工程学院) with a bachelor’s degree. Now, I’m pursuing my master’s degree in University of Chinese Academy of Science (中国科学院大学), advised by [Chang Liu](https://dblp.uni-trier.de/pid/52/5716-9.html) (刘畅).
-
 My research interest includes visual navigation, pose tracking and state estimation. I have submitted 4 papers in EI/SCI journals, and attended 1 EI conference.
 
 # 📖 Educations
-- 2022.09 - current, Harbin Institute of Technology, Beijing/Shenzhen, (Score: 3.82/4.00)
+- 2022.09 - current, University of Chinese Academy of Science, Beijing+Shenzhen, (Score: 3.82/4.00)
 - 2018.09 - 2022.06, Harbin Engineering University, Harbin, (GPA: 92.44/100, rank: top 3%)
 
 # 📝 Publications 
@@ -126,5 +124,3 @@ IEEE Transactions on Medical Imaging, under review
 ***2023.09-2024.01*, TA (part-time), Shenzhen University of Advanced Technology, China**
 - Course name: Matrix Theory, one of the major courses for undergraduate students
 - Response to course related questions for 300+ students
-
-
