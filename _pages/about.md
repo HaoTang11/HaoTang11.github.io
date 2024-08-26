@@ -47,7 +47,7 @@ Frontiers in Space Technologies
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="2">
+<div class='paper-box-text' markdown="1">
 
 [Model-based visual 3D pose tracking of non-cooperative spacecraft in Close Range](https://iafastro.directory/iac/paper/id/77170/summary/)
 
@@ -64,7 +64,7 @@ Proceedings of the 74th International Astronautical Congress
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/paper3.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="3">
+<div class='paper-box-text' markdown="1">
 
 Real-time Monocular 3D Pose Tracking for Non-cooperative Spacecraft in Close Range
 
@@ -82,7 +82,7 @@ IEEE Transactions on Instrumentation and Measurement, 2nd review
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/paper4.mp4' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="4">
+<div class='paper-box-text' markdown="1">
 
 Local Thin Plate Spline Descriptor for Aiding Marker-less Cerebral Artery Navigation Based on 3D Point Cloud Registration
 
