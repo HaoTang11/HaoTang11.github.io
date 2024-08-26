@@ -129,7 +129,7 @@ Specifically, we improve the neural network SFSnet to segment the spacecraft fro
 - 2021.10	National Scholarship (top 1%), Ministry of Education, China
 - 2021.10	1st Prize (top 3%), Ti Cup National Undergraduate Electronic Design Contest, China
 - 2020.12	3rd Prize (top 15%), The Chinese Mathematics Competitions, China
-- 2020.10	3rd Prize (top 10%), China Undergraduate Mathematical Contest in Modeling, China
+- 2020.10	3rd Prize (top 15%), China Undergraduate Mathematical Contest in Modeling, China
 - 2020.08	1st Prize (top 5%), Mathematical modeling of the three northeastern provinces League, China
 
 # 💬 Invited Talks
