@@ -122,6 +122,7 @@ IEEE Transactions on Medical Imaging, under review
 - Code version maintenance, including code testing, updating and security
 - Code management for Huawei's corporate-level Code hosting services - Codehub, achieving 10,000+ response one day
 - Development of key functions of Codehub for users, finishing a user-friendly search interface finally
+
 ***2023.09-2024.01*, TA (part-time), Shenzhen University of Advanced Technology, China**
 - Course name: Matrix Theory, one of the major courses for undergraduate students
 - Response to course related questions for 300+ students
