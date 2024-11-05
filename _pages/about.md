@@ -55,7 +55,7 @@ Chang Liu*, **Hao Tang**
 
 Proceedings of the 74th International Astronautical Congress
 
-[**Paper**](https://github.com/HaoTang11/Working_Set/blob/main/%E4%BD%9C%E5%93%81%E9%9B%86/Model-based%20Visual%203D%20Pose%20Tracking%20of%20Non-cooperative%20Spacecraft%20in%20Close%20Range/%E8%AE%BA%E6%96%87.pdf)
+[**Paper**](https://www.engineeringvillage.com/app/doc/?docid=cpx_M6d3c13d618e770d7715M650410178165153&pageSize=25&index=1&searchId=a9df5555e93749cc9b9c6dc33dedf516&resultsCount=1&usageZone=resultslist&usageOrigin=searchresults&searchType=Quick)
 - automatic extraction and parametrization for the 3D boundaries and 3D contour of a spacecraft
 - data correspondence based on truncated gaussian distribution
 - real-time pose determination based on minimization of segment-to-line distance
