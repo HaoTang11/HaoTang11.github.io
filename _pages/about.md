@@ -103,7 +103,7 @@ IEEE Transactions on Medical Imaging, under review
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">pose initialization</div><img src='images/paper5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Local Thin Plate Spline Descriptor for Aiding Marker-less Cerebral Artery Navigation Based on 3D Point Cloud Registration
+A Robust Template-based 3D Pose Initialization for Spacecraft by 2D Contour optimization
 
  **Hao Tang**, Chang Liu*
 
