@@ -29,6 +29,25 @@ My research interest includes visual navigation, pose tracking and state estimat
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/paper3.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Real-time Monocular 3D Pose Tracking for Non-cooperative Spacecraft in Close Range
+
+**Hao Tang**, Chang Liu*, Jia Liu, Pandeng Zhang, Weiduo Hu 
+
+IEEE Transactions on Instrumentation and Measurement, Submmited 
+
+[**Part of paper**](https://github.com/HaoTang11/Working_Set/blob/main/%E4%BD%9C%E5%93%81%E9%9B%86/Real-time%20Monocular%203D%20Pose%20Tracking%20for%20Non-cooperative%20Spacecraft%20in%20Close%20Range/%E8%AE%BA%E6%96%87%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89.pdf)
+- automatic extraction and parameterization of the geometric features (arbitrary 3D boundaries and contour) given the spacecraft mesh model
+- 2D-3D correspondence based on conditional linear random field
+- real-time pose estimation in SE(3) based on Newton method
+- first-order pose covariance inference based on Cartesian noise model
+- ESKF based on second-order autoregression in SE(3)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -60,24 +79,6 @@ Proceedings of the 74th International Astronautical Congress
 - data correspondence based on truncated gaussian distribution
 - real-time pose determination based on minimization of segment-to-line distance
 - the first-order inference to covariance matrix of the estimated pose.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/paper3.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Real-time Monocular 3D Pose Tracking for Non-cooperative Spacecraft in Close Range
-
-**Hao Tang**, Chang Liu*, Jia Liu, Pandeng Zhang, Weiduo Hu 
-
-IEEE Transactions on Instrumentation and Measurement, 2nd review 
-
-[**Part of paper**](https://github.com/HaoTang11/Working_Set/blob/main/%E4%BD%9C%E5%93%81%E9%9B%86/Real-time%20Monocular%203D%20Pose%20Tracking%20for%20Non-cooperative%20Spacecraft%20in%20Close%20Range/%E8%AE%BA%E6%96%87%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89.pdf)
-- automatic extraction and parameterization of the geometric features (arbitrary 3D boundaries and contour) given the spacecraft mesh model
-- 2D-3D correspondence based on conditional linear random field
-- real-time pose estimation in SE(3) based on Newton method
-- first-order pose covariance inference based on Cartesian noise model
-- ESKF based on second-order autoregression in SE(3)
 </div>
 </div>
 
