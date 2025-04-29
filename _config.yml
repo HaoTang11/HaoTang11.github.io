@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Hao Tang (唐昊)"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/th-android-chrome-512x512.png"
   bio              : "University of Chinese Academy of Science"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=geO5wcwAAAAJ"
-  email            : "TangHao_813@163.com"
+  email            : "tanghao_813@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
