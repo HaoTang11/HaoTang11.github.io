@@ -36,9 +36,9 @@ Real-time Monocular 3D Pose Tracking for Non-cooperative Spacecraft in Close Ran
 
 **Hao Tang**, Chang Liu*, Jia Liu, Pandeng Zhang, Weiduo Hu 
 
-IEEE Transactions on Instrumentation and Measurement, Accepted 
+IEEE Transactions on Instrumentation and Measurement
 
-[**Part of paper**](https://github.com/HaoTang11/Working_Set/blob/main/%E4%BD%9C%E5%93%81%E9%9B%86/Real-time%20Monocular%203D%20Pose%20Tracking%20for%20Non-cooperative%20Spacecraft%20in%20Close%20Range/%E8%AE%BA%E6%96%87%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89.pdf)
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/11002620)
 - automatic extraction and parameterization of the geometric features (arbitrary 3D boundaries and contour) given the spacecraft mesh model
 - 2D-3D correspondence based on conditional linear random field
 - real-time pose estimation in SE(3) based on Newton method
