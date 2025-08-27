@@ -89,7 +89,7 @@ Marker-less Head Pose Tracking for Image-guided Cerebral Artery Navigation
 
 Qiuyin Wang, Pandeng Zhang, Dewei Chen, **Hao Tang**, Chang Liu*, Jia Liu*
 
-28th INTERNATIONAL CONFERENCE ON MEDICAL IMAGE COMPUTING AND COMPUTER ASSISTED INTERVENTION (MICCAI), Accepted
+28th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Accepted
 
 [**Paper**] 
 - 3D facial model construction from preoperative MRI data
