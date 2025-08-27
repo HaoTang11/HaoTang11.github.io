@@ -36,7 +36,7 @@ Real-time Monocular 3D Pose Tracking for Non-cooperative Spacecraft in Close Ran
 
 **Hao Tang**, Chang Liu*, Jia Liu, Pandeng Zhang, Weiduo Hu 
 
-IEEE Transactions on Instrumentation and Measurement
+IEEE Transactions on Instrumentation and Measurement, Published 
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/11002620)
 - automatic extraction and parameterization of the geometric features (arbitrary 3D boundaries and contour) given the spacecraft mesh model
@@ -55,7 +55,7 @@ IEEE Transactions on Instrumentation and Measurement
 
 **Hao Tang**, Chang Liu* (supervisor), Yuzhu Su, Qiuyin Wang, Weiduo Hu
 
-Frontiers in Space Technologies
+Frontiers in Space Technologies, Published 
 
 [**Paper**](https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2024.1337262/full)
 - we propose a robust 2D-3D correspondence method based on the covariance of the pose.
@@ -72,7 +72,7 @@ Frontiers in Space Technologies
 
 Chang Liu*, **Hao Tang**
 
-Proceedings of the 74th International Astronautical Congress (IAC)
+Proceedings of the 74th International Astronautical Congress (IAC), Published 
 
 [**Paper**](https://www.engineeringvillage.com/app/doc/?docid=cpx_M6d3c13d618e770d7715M650410178165153&pageSize=25&index=1&searchId=a9df5555e93749cc9b9c6dc33dedf516&resultsCount=1&usageZone=resultslist&usageOrigin=searchresults&searchType=Quick)
 - automatic extraction and parametrization for the 3D boundaries and 3D contour of a spacecraft
@@ -89,7 +89,7 @@ Marker-less Head Pose Tracking for Image-guided Cerebral Artery Navigation
 
 Qiuyin Wang, Pandeng Zhang, Dewei Chen, **Hao Tang**, Chang Liu*, Jia Liu*
 
-28th INTERNATIONAL CONFERENCE ON MEDICAL IMAGE COMPUTING AND COMPUTER ASSISTED INTERVENTION (MICCAI), ACCEPTED
+28th INTERNATIONAL CONFERENCE ON MEDICAL IMAGE COMPUTING AND COMPUTER ASSISTED INTERVENTION (MICCAI), Accepted
 
 [**Paper**] 
 - 3D facial model construction from preoperative MRI data
