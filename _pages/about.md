@@ -72,7 +72,7 @@ Frontiers in Space Technologies
 
 Chang Liu*, **Hao Tang**
 
-Proceedings of the 74th International Astronautical Congress
+Proceedings of the 74th International Astronautical Congress (IAC)
 
 [**Paper**](https://www.engineeringvillage.com/app/doc/?docid=cpx_M6d3c13d618e770d7715M650410178165153&pageSize=25&index=1&searchId=a9df5555e93749cc9b9c6dc33dedf516&resultsCount=1&usageZone=resultslist&usageOrigin=searchresults&searchType=Quick)
 - automatic extraction and parametrization for the 3D boundaries and 3D contour of a spacecraft
@@ -85,17 +85,17 @@ Proceedings of the 74th International Astronautical Congress
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based medical navigation</div><img src='images/paper4.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Local Thin Plate Spline Descriptor for Aiding Marker-less Cerebral Artery Navigation Based on 3D Point Cloud Registration
+Marker-less Head Pose Tracking for Image-guided Cerebral Artery Navigation
 
-Qiuyin Wang, Chang Liu*, **Hao Tang**
+Qiuyin Wang, Pandeng Zhang, Dewei Chen, **Hao Tang**, Chang Liu*, Jia Liu*
 
-IEEE Transactions on Medical Imaging, under review
+28th INTERNATIONAL CONFERENCE ON MEDICAL IMAGE COMPUTING AND COMPUTER ASSISTED INTERVENTION (MICCAI), ACCEPTED
 
-[**Part of Paper**](https://github.com/HaoTang11/Working_Set/blob/main/%E4%BD%9C%E5%93%81%E9%9B%86/Local%20Thin%20Plate%20Spline%20Descriptor%20for%20Aiding%20Marker-less%20Cerebral%20Artery%20Navigation%20Based%20on%203D%20Point%20Cloud%20Registration/%E8%AE%BA%E6%96%87%E9%83%A8%E5%88%86.pdf)
-- A robust local reference frame with scaling strategy
-- A local invariant point cloud descriptor is proposed based on thin plate spline
-- A feature matching algorithm is improved based on fully connected CRF with geometric constraints
-- The proposed descriptor and registration algorithm are applied to stimulation and real-world scenarios captured by depth camera and MRI images
+[**Part of Paper**](https://github.com/HaoTang11/Working_Set/blob/main/%E4%BD%9C%E5%93%81%E9%9B%86/Local%20Thin%20Plate%20Spline%20Descriptor%20for%20Aiding%20Marker-less%20Cerebral%20Artery%20Navigation%20Based%20on%203D%20Point%20Cloud%20Registration/%E8%AE%BA%E6%96%87%E9%83%A8%E5%88%86.pdf) 
+- A 3D facial model is automatically constructed from preoperative MRI data
+- A thin-plate spline function (TPSF) description encoding local geometry of facial model
+- Registeration between RGBD camera and the facial model by maximum weight matching
+- SCKF-ICP fusion for real-time pose tracking
 </div>
 </div>
 
