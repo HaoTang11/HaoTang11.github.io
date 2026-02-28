@@ -33,7 +33,7 @@ I have published 2 peer-reviewed SCI journal papers (***IEEE TIM*** , ***MST***)
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/percept-wam.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLA model</div><img src='images/percept-wam.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Percept-WAM: Perception-Enhanced World-Awareness-Action Model for Robust End-to-End Autonomous Driving
@@ -66,6 +66,23 @@ Measurement Science and Technology, 2025, Published
 - fast pose determination on SO(3) by minimizing segment-to-line distances using a Newton's method
 - temporal state estimation and refinement via Cubature Kalman Filter (CKF) based on a CTRV motion model
 - high-efficiency performance achieving 0.6°/0.5% average tracking error and 0.002s processing time per frame
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based medical navigation</div><img src='images/paper4.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Marker-less Head Pose Tracking for Image-guided Cerebral Artery Navigation
+
+Qiuyin Wang, Pandeng Zhang, Dewei Chen, **Hao Tang**, Chang Liu*, Jia Liu*
+
+*International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2025, Accepted
+
+[**Paper**] 
+- 3D facial model construction from preoperative MRI data
+- A thin-plate spline function (TPSF) description encoding local geometry of facial model
+- Registeration between RGBD camera and the facial model by maximum weight matching
+- Real-time pose tracking based on SCKF-ICP fusion
 </div>
 </div>
 
@@ -119,23 +136,6 @@ Chang Liu*, **Hao Tang**
 - data correspondence based on truncated gaussian distribution
 - real-time pose determination based on minimization of segment-to-line distance
 - the first-order inference to covariance matrix of the estimated pose.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based medical navigation</div><img src='images/paper4.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Marker-less Head Pose Tracking for Image-guided Cerebral Artery Navigation
-
-Qiuyin Wang, Pandeng Zhang, Dewei Chen, **Hao Tang**, Chang Liu*, Jia Liu*
-
-*International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2025, Accepted
-
-[**Paper**] 
-- 3D facial model construction from preoperative MRI data
-- A thin-plate spline function (TPSF) description encoding local geometry of facial model
-- Registeration between RGBD camera and the facial model by maximum weight matching
-- Real-time pose tracking based on SCKF-ICP fusion
 </div>
 </div>
 
