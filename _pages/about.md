@@ -23,17 +23,17 @@ I graduated from College of Intelligent Systems Science and Engineering, [Harbin
 
 I am currently an **Autonomous Driving Engineer** in the **2030 LAB at Yinwang (Huawei IAS BU)**, focusing on **Vision-Language-Action (VLA)**, **World Models**, **Perception**, etc.
 
-Previously, I earned my Master’s degree from the University of Chinese Academy of Sciences, where I conducted research at the Shenzhen Institute of advanced technology (中科院深圳先进技术研究院数字所). I also hold a Bachelor’s degree from the College of Intelligent Systems Science and Engineering at Harbin Engineering University. My previous research includes visual navigation, pose tracking and state estimation. 
+Previously, I earned my Master’s degree from the University of Chinese Academy of Sciences, where I conducted research at the Shenzhen Institute of advanced technology (中科院深圳先进技术研究院数字所). I also hold a Bachelor’s degree from the College of Intelligent Systems Science and Engineering at Harbin Engineering University (哈尔滨工程大学智能科学与工程学院). My previous research includes visual navigation, pose tracking and state estimation. 
 
 I have published 2 peer-reviewed SCI journal papers (***IEEE TIM*** , ***MST***), and 3 EI conference papers (***CVPR***, ***MICCAI***, ***IAC***).
 
 # 📖 Educations
-- 2022.09 - current, University of Chinese Academy of Science, Beijing+Shenzhen, (Score: 3.82/4.00, rank: top 3%)
-- 2018.09 - 2022.06, Harbin Engineering University, Harbin, (GPA: 92.44/100, rank: top 3%)
+- 2022.09 - 2025.06, MSc. Computer Technology, University of Chinese Academy of Science, Beijing+Shenzhen, China (Score: 3.82/4.00, rank: top 3%)
+- 2018.09 - 2022.06, BSc. Automation Engineering, Harbin Engineering University, Harbin, China (GPA: 92.44/100, rank: top 3%)
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/paper3.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/percept-wam.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Percept-WAM: Perception-Enhanced World-Awareness-Action Model for Robust End-to-End Autonomous Driving
@@ -42,12 +42,12 @@ Jianhua Han, ..., **Hao Tang**, ..., Hang Xu*
 
 *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2026, Accepted 
 
-[**Paper**](https://ieeexplore.ieee.org/abstract/document/11002620)
-- automatic extraction and parameterization of the geometric features (arbitrary 3D boundaries and contour) given the spacecraft mesh model
-- 2D-3D correspondence based on conditional linear random field
-- real-time pose estimation in SE(3) based on Newton method
-- first-order pose covariance inference based on Cartesian noise model
-- ESKF based on second-order autoregression in SE(3)
+[**Paper**](https://arxiv.org/abs/2511.19221)
+- unified 2D/3D tokenization (World-PV/BEV) for holistic scene understanding within a VLM
+- grid-conditioned prediction with IoU-aware parallel decoding for dense object perception
+- streaming inference via a memory-enabled recursive framework for temporal consistency
+- action-centric alignment of PV, BEV, and ego-status through specialized World-Action tokens
+- SOTA performance on nuScenes (perception) and NAVSIM (planning) benchmarks over diffusion and modular baselines
 </div>
 </div>
 
