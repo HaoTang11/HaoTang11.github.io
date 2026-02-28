@@ -17,16 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a master student in the [Shenzhen Institute of advanced technology](https://szs.siat.ac.cn/#/), Chinese Academy of science (中科院深圳先进技术研究院数字所).
+<!--I am now a master student in the [Shenzhen Institute of advanced technology](https://szs.siat.ac.cn/#/), Chinese Academy of science (中科院深圳先进技术研究院数字所).
 
-I graduated from College of Intelligent Systems Science and Engineering, [Harbin engineering university](https://cisse.hrbeu.edu.cn/) (哈尔滨工程大学智能科学与工程学院) with a bachelor’s degree. Now, I’m pursuing my master’s degree in University of Chinese Academy of Science (中国科学院大学), advised by [Chang Liu](https://dblp.uni-trier.de/pid/52/5716-9.html) (刘畅).
+I graduated from College of Intelligent Systems Science and Engineering, [Harbin engineering university](https://cisse.hrbeu.edu.cn/) (哈尔滨工程大学智能科学与工程学院) with a bachelor’s degree. Now, I’m pursuing my master’s degree in University of Chinese Academy of Science (中国科学院大学), advised by [Chang Liu](https://dblp.uni-trier.de/pid/52/5716-9.html) (刘畅).-->
 
-I am currently an **Autonomous Driving Engineer** in the **2030 Department at Yinwang**. My research interests lie at the intersection of robotics and artificial intelligence, specifically focusing on:
-* **Vision-Language-Action (VLA)** models
-* **World Models** for autonomous driving
-* **End-to-End Trajectory Planning**
+I am currently an **Autonomous Driving Engineer** in the **2030 LAB, Yinwang**, focusing on **Vision-Language-Action (VLA)**, **World Models**, **Perception**, etc.
 
-My research interest includes visual navigation, pose tracking and state estimation. I have submitted 4 papers in EI/SCI journals, and attended 2 EI conference.
+Previously, I earned my Master’s degree from the University of Chinese Academy of Sciences, where I conducted research at the [Shenzhen Institute of advanced technology](https://szs.siat.ac.cn/#/) (中科院深圳先进技术研究院数字所). I also hold a Bachelor’s degree from the College of Intelligent Systems Science and Engineering at Harbin Engineering University. My previous research includes visual navigation, pose tracking and state estimation. 
+
+I have submitted 4 papers in EI/SCI journals, and attended 2 EI conference.
 
 # 📖 Educations
 - 2022.09 - current, University of Chinese Academy of Science, Beijing+Shenzhen, (Score: 3.82/4.00)
@@ -53,7 +52,7 @@ IEEE Transactions on Instrumentation and Measurement, Published
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Model-based monocular 6-degree-of-freedom pose tracking for asteroid](https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2024.1337262/full)
@@ -68,7 +67,7 @@ Frontiers in Space Technologies, Published
 - we infer the covariance matrix of the estimated pose based on the first-order optimality of the pose optimization.
 - we use 2nd-AR-based SCKF to give the final pose estimate and initialize the pose tracking at the next time instant. 
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
