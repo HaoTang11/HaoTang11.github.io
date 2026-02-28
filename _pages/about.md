@@ -23,7 +23,7 @@ I graduated from College of Intelligent Systems Science and Engineering, [Harbin
 
 I am currently an **Autonomous Driving Engineer** in the **2030 LAB at Yinwang (Huawei IAS BU)**, focusing on **Vision-Language-Action (VLA)**, **World Models**, **Perception**, etc.
 
-Previously, I earned my Master’s degree from the University of Chinese Academy of Sciences, where I conducted research at the Shenzhen Institute of advanced technology (中科院深圳先进技术研究院数字所). I also hold a Bachelor’s degree from the College of Intelligent Systems Science and Engineering at Harbin Engineering University (哈尔滨工程大学智能科学与工程学院). My previous research includes visual navigation, pose tracking and state estimation. 
+Previously, I earned my Master’s degree from the University of Chinese Academy of Sciences and conducted research at the Shenzhen Institute of advanced technology (中科院深圳先进技术研究院数字所). I also hold a Bachelor’s degree from the College of Intelligent Systems Science and Engineering at Harbin Engineering University (哈尔滨工程大学智能科学与工程学院). My previous research included visual navigation, pose tracking and state estimation. 
 
 I have published 2 peer-reviewed SCI journal papers (***IEEE TIM*** , ***MST***), and 3 EI conference papers (***CVPR***, ***MICCAI***, ***IAC***).
 
