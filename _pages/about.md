@@ -28,8 +28,8 @@ Previously, I earned my Master’s degree from the University of Chinese Academy
 I have published 2 peer-reviewed SCI journal papers (***IEEE TIM*** , ***MST***), and 3 EI conference papers (***CVPR***, ***MICCAI***, ***IAC***).
 
 # 📖 Educations
-- 2022.09 - 2025.06, MSc. Computer Technology, University of Chinese Academy of Science, Beijing+Shenzhen, China (Score: 3.82/4.00, rank: top 3%)
-- 2018.09 - 2022.06, BSc. Automation Engineering, Harbin Engineering University, Harbin, China (GPA: 92.44/100, rank: top 3%)
+- 2022.09 - 2025.06, MSc. Computer Technology, University of Chinese Academy of Science, China (GPA: 3.82/4.00, rank: top 3%)
+- 2018.09 - 2022.06, BSc. Automation Engineering, Harbin Engineering University, China (GPA: 92.44/100, rank: top 3%)
 
 # 📝 Publications 
 
