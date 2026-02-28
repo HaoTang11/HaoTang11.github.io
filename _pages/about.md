@@ -21,17 +21,35 @@ redirect_from:
 
 I graduated from College of Intelligent Systems Science and Engineering, [Harbin engineering university](https://cisse.hrbeu.edu.cn/) (哈尔滨工程大学智能科学与工程学院) with a bachelor’s degree. Now, I’m pursuing my master’s degree in University of Chinese Academy of Science (中国科学院大学), advised by [Chang Liu](https://dblp.uni-trier.de/pid/52/5716-9.html) (刘畅).-->
 
-I am currently an **Autonomous Driving Engineer** in the **2030 LAB, Yinwang**, focusing on **Vision-Language-Action (VLA)**, **World Models**, **Perception**, etc.
+I am currently an **Autonomous Driving Engineer** in the **2030 LAB at Yinwang (Huawei IAS BU)**, focusing on **Vision-Language-Action (VLA)**, **World Models**, **Perception**, etc.
 
-Previously, I earned my Master’s degree from the University of Chinese Academy of Sciences, where I conducted research at the [Shenzhen Institute of advanced technology](https://szs.siat.ac.cn/#/) (中科院深圳先进技术研究院数字所). I also hold a Bachelor’s degree from the College of Intelligent Systems Science and Engineering at Harbin Engineering University. My previous research includes visual navigation, pose tracking and state estimation. 
+Previously, I earned my Master’s degree from the University of Chinese Academy of Sciences, where I conducted research at the Shenzhen Institute of advanced technology (中科院深圳先进技术研究院数字所). I also hold a Bachelor’s degree from the College of Intelligent Systems Science and Engineering at Harbin Engineering University. My previous research includes visual navigation, pose tracking and state estimation. 
 
-I have submitted 4 papers in EI/SCI journals, and attended 2 EI conference.
+I have published 2 peer-reviewed SCI journal papers (***IEEE TIM*** , ***MST***), and 3 EI conference papers (***CVPR***, ***MICCAI***, ***IAC***).
 
 # 📖 Educations
-- 2022.09 - current, University of Chinese Academy of Science, Beijing+Shenzhen, (Score: 3.82/4.00)
+- 2022.09 - current, University of Chinese Academy of Science, Beijing+Shenzhen, (Score: 3.82/4.00, rank: top 3%)
 - 2018.09 - 2022.06, Harbin Engineering University, Harbin, (GPA: 92.44/100, rank: top 3%)
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/paper3.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Percept-WAM: Perception-Enhanced World-Awareness-Action Model for Robust End-to-End Autonomous Driving
+
+Jianhua Han, ..., **Hao Tang**, ..., Hang Xu*
+
+*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2026, Accepted 
+
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/11002620)
+- automatic extraction and parameterization of the geometric features (arbitrary 3D boundaries and contour) given the spacecraft mesh model
+- 2D-3D correspondence based on conditional linear random field
+- real-time pose estimation in SE(3) based on Newton method
+- first-order pose covariance inference based on Cartesian noise model
+- ESKF based on second-order autoregression in SE(3)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/paper3.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -40,7 +58,7 @@ Real-time Monocular 3D Pose Tracking for Non-cooperative Spacecraft in Close Ran
 
 **Hao Tang**, Chang Liu*, Jia Liu, Pandeng Zhang, Weiduo Hu 
 
-IEEE Transactions on Instrumentation and Measurement, Published 
+*IEEE Transactions on Instrumentation and Measurement*, Published 
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/11002620)
 - automatic extraction and parameterization of the geometric features (arbitrary 3D boundaries and contour) given the spacecraft mesh model
@@ -59,7 +77,7 @@ IEEE Transactions on Instrumentation and Measurement, Published
 
 **Hao Tang**, Chang Liu* (supervisor), Yuzhu Su, Qiuyin Wang, Weiduo Hu
 
-Frontiers in Space Technologies, Published 
+*Frontiers in Space Technologies*, Published 
 
 [**Paper**](https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2024.1337262/full)
 - we propose a robust 2D-3D correspondence method based on the covariance of the pose.
@@ -76,7 +94,7 @@ Frontiers in Space Technologies, Published
 
 Chang Liu*, **Hao Tang**
 
-Proceedings of the 74th International Astronautical Congress (IAC), Published 
+*Proceedings of the 74th International Astronautical Congress (IAC)*, 2023, Published 
 
 [**Paper**](https://www.engineeringvillage.com/app/doc/?docid=cpx_M6d3c13d618e770d7715M650410178165153&pageSize=25&index=1&searchId=a9df5555e93749cc9b9c6dc33dedf516&resultsCount=1&usageZone=resultslist&usageOrigin=searchresults&searchType=Quick)
 - automatic extraction and parametrization for the 3D boundaries and 3D contour of a spacecraft
@@ -93,7 +111,7 @@ Marker-less Head Pose Tracking for Image-guided Cerebral Artery Navigation
 
 Qiuyin Wang, Pandeng Zhang, Dewei Chen, **Hao Tang**, Chang Liu*, Jia Liu*
 
-28th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Accepted
+*International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2025, Accepted
 
 [**Paper**] 
 - 3D facial model construction from preoperative MRI data
