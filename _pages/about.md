@@ -51,6 +51,24 @@ Jianhua Han, ..., **Hao Tang**, ..., Hang Xu*
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/mst.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Measurement Science and Technology, 2025, Published
+
+**Hao Tang**, Chang Liu*, Qiuying Wang, Weiduo Hu
+
+*Measurement Science and Technology*, 2025, Published
+
+[**Paper**](https://iopscience.iop.org/article/10.1088/1361-6501/ae1a06/meta)
+- offline extraction and parameterization of prominent 3D boundaries and contours from spacecraft mesh models
+- 2D-3D correspondence established via local geometric similarity and intensity consistency without GPU-based rendering
+- fast pose determination on SO(3) by minimizing segment-to-line distances using a Newton's method
+- temporal state estimation and refinement via Cubature Kalman Filter (CKF) based on a CTRV motion model
+- high-efficiency performance achieving 0.6°/0.5% average tracking error and 0.002s processing time per frame
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/paper3.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -58,7 +76,7 @@ Real-time Monocular 3D Pose Tracking for Non-cooperative Spacecraft in Close Ran
 
 **Hao Tang**, Chang Liu*, Jia Liu, Pandeng Zhang, Weiduo Hu 
 
-*IEEE Transactions on Instrumentation and Measurement*, Published 
+*IEEE Transactions on Instrumentation and Measurement*, 2025, Published 
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/11002620)
 - automatic extraction and parameterization of the geometric features (arbitrary 3D boundaries and contour) given the spacecraft mesh model
