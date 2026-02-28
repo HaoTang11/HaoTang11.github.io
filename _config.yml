@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hao Tang (唐昊)"
-description              : "an Autonomous Driving Engineer in the 2030 LAB at Yinwang (引望/华为车bu). Focusing on visual perception, VLA and Multiple View Geometry."
+description              : "An Autonomous Driving Engineer in the 2030 LAB at Yinwang (引望/华为车bu). Focusing on visual perception, VLA and Multiple View Geometry."
 repository               : "HaoTang11/HaoTang11.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "HaoTang11"# e.g., 
+  #github           : "HaoTang11"# e.g., 
   google_plus      :
   keybase          :
   instagram        :
