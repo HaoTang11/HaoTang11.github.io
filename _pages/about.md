@@ -21,6 +21,11 @@ I am now a master student in the [Shenzhen Institute of advanced technology](htt
 
 I graduated from College of Intelligent Systems Science and Engineering, [Harbin engineering university](https://cisse.hrbeu.edu.cn/) (哈尔滨工程大学智能科学与工程学院) with a bachelor’s degree. Now, I’m pursuing my master’s degree in University of Chinese Academy of Science (中国科学院大学), advised by [Chang Liu](https://dblp.uni-trier.de/pid/52/5716-9.html) (刘畅).
 
+I am currently an **Autonomous Driving Engineer** in the **2030 Department at Yinwang**. My research interests lie at the intersection of robotics and artificial intelligence, specifically focusing on:
+* **Vision-Language-Action (VLA)** models
+* **World Models** for autonomous driving
+* **End-to-End Trajectory Planning**
+
 My research interest includes visual navigation, pose tracking and state estimation. I have submitted 4 papers in EI/SCI journals, and attended 2 EI conference.
 
 # 📖 Educations
