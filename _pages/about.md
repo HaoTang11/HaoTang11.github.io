@@ -22,21 +22,24 @@ I graduated from College of Intelligent Systems Science and Engineering, [Harbin
 
 # 👨‍💻 About Me
 I am an **Autonomous Driving Engineer** at the **2030 LAB, Yinwang (Huawei Intelligent Automotive Solution BU)**. My work is dedicated to developing the next generation of autonomous driving systems, specifically focusing on Vision-Language-Action (VLA) models, World Models, and robust perception architectures for end-to-end driving.
+
 -**Foundation Models** for Driving: VLA/VLM architectures, World Models for future state prediction, and Large Multi-modal Models (LMM) for scene understanding.
 -**End-to-End Autonomous Driving**: Developing unified pipelines that integrate high-level logical reasoning with low-level motion control and perception-action alignment.
 
-I earned my Master’s degree from the University of Chinese Academy of Sciences (UCAS), where I conducted my research at the Shenzhen Institute of Advanced Technology (SIAT). Prior to that, I received my Bachelor’s degree with honor from the College of Intelligent Systems Science and Engineering at Harbin Engineering University. My previous research expertise is deeply rooted in classical perception and state estimation, with a specific focus on 6-DoF pose tracking ($SO(3)/SE(3)$), multi-view geometry, SLAM, and recursive filtering for safety-critical localization.
+I earned my Master’s degree from the University of Chinese Academy of Sciences (UCAS), where I conducted my research at the Shenzhen Institute of Advanced Technology (SIAT). Prior to that, I received my Bachelor’s degree with honor from the College of Intelligent Systems Science and Engineering at Harbin Engineering University. My previous research expertise is deeply rooted in classical perception and state estimation, with a specific focus on 6-DoF pose tracking, multi-view geometry, SLAM, and recursive filtering for safety-critical localization.
 
 I have published 2 peer-reviewed SCI journal papers (***IEEE TIM*** , ***MST***), and 3 EI conference papers (***CVPR***, ***MICCAI***, ***IAC***).  I am open for the opportunty of collaboration. Feel free to contact me if there's anything I can help you.
 
 # 📢 News and updates
 <div style="max-height: 250px; overflow-y: auto; padding: 10px; border: 1px solid #eee; border-radius: 5px;">
   <ul>
-    <li><strong>[2026.02]</strong> Our paper <strong>Percept-WAM</strong> has been accepted to <strong>CVPR 2026</strong>!</li>
-    <li><strong>[2025.10]</strong> Published a new journal paper on Spacecraft Tracking in <strong>IEEE TIM</strong>.</li>
-    <li><strong>[2025.07]</strong> Joined <strong>2030 LAB, Yinwang (Huawei IAS BU)</strong>.</li>
-    <li><strong>[2025.06]</strong> Graduated with a Master's degree from <strong>UCAS (SIAT)</strong>.</li>
-    <li><strong>[2025.05]</strong> Awarded Merit Student Award at UCAS.</li>
+    <li><strong>[2026.02]</strong> Our paper (Percept-WAM) was accepted by CVPR 2026</strong>.</li>
+    <li><strong>[2025.10]</strong> Our paper (Monocular-vision-based) was accepted by MST</strong>.</li>
+    <li><strong>[2025.06]</strong> Joined <strong>2030 LAB, Yinwang (Huawei IAS BU)</strong>.</li>
+    <li><strong>[2025.06]</strong> Our paper (Marker-less Head) was accepted by MICCAI</strong>.</li>
+    <li><strong>[2025.04]</strong> Our paper (Real-time Monocular) was accepted by IEEE TIM</strong>.</li>
+    <li><strong>[2023.02]</strong> Our paper (Model-based visual) was accepted by IAC</strong>.</li>
+    <li><strong>[2023.02]</strong> Create this homepage</strong></li>
     </ul>
 </div>
 
