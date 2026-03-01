@@ -21,11 +21,14 @@ redirect_from:
 I graduated from College of Intelligent Systems Science and Engineering, [Harbin engineering university](https://cisse.hrbeu.edu.cn/) (哈尔滨工程大学智能科学与工程学院) with a bachelor’s degree. Now, I’m pursuing my master’s degree in University of Chinese Academy of Science (中国科学院大学), advised by [Chang Liu](https://dblp.uni-trier.de/pid/52/5716-9.html) (刘畅).-->
 
 # 🙋 About Me
-I am currently an **Autonomous Driving Engineer** in the **2030 LAB at Yinwang (Huawei IAS BU)**, focusing on **Vision-Language-Action (VLA)**, **World Models**, **Perception**, etc.
+I am an **Autonomous Driving Engineer** at the **2030 LAB, Yinwang (Huawei Intelligent Automotive Solution BU)**. My work is dedicated to developing the next generation of autonomous driving systems, specifically focusing on Vision-Language-Action (VLA) models, World Models, and robust perception architectures for end-to-end driving.
 
-Previously, I earned my Master’s degree from the University of Chinese Academy of Sciences and conducted research at the Shenzhen Institute of advanced technology (中科院深圳先进技术研究院数字所). I also hold a Bachelor’s degree from the College of Intelligent Systems Science and Engineering at Harbin Engineering University (哈尔滨工程大学智能科学与工程学院). My previous research included visual navigation, pose tracking and state estimation. 
+I earned my Master’s degree from the University of Chinese Academy of Sciences (UCAS), where I conducted my research at the Shenzhen Institute of Advanced Technology (SIAT). Prior to that, I received my Bachelor’s degree from the College of Intelligent Systems Science and Engineering at Harbin Engineering University. My research expertise is deeply rooted in classical perception and state estimation, with a specific focus on 6-DoF pose tracking ($SO(3)/SE(3)$), multi-view geometry, SLAM, and recursive filtering for safety-critical localization.
+Generally, my current Research Interests are listed as follows: 
+-**Foundation Models** for Driving: VLA/VLM architectures, World Models for future state prediction, and Large Multi-modal Models (LMM) for scene understanding.
+-**End-to-End Autonomous Driving**: Developing unified pipelines that integrate high-level logical reasoning with low-level motion control and perception-action alignment.
 
-I have published 2 peer-reviewed SCI journal papers (***IEEE TIM*** , ***MST***), and 3 EI conference papers (***CVPR***, ***MICCAI***, ***IAC***).
+I have published 2 peer-reviewed SCI journal papers (***IEEE TIM*** , ***MST***), and 3 EI conference papers (***CVPR***, ***MICCAI***, ***IAC***).  I am open for the opportunty of collaboration. Feel free to contact me if there's anything I can help you.
 
 # 📖 Educations
 - 2022.09 - 2025.06, MSc. Computer Technology, University of Chinese Academy of Science, China (GPA: 3.82/4.00, rank: top 3%)
