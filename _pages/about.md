@@ -31,7 +31,7 @@ I earned my Master’s degree from the University of Chinese Academy of Sciences
 
 I have published 2 peer-reviewed SCI journal papers (***IEEE TIM*** , ***MST***), and 3 EI conference papers (***CVPR***, ***MICCAI***, ***IAC***).  I am open for the opportunty of collaboration. Feel free to contact me if there's anything I can help you.
 
-<span class='anchor' id='-news'></span>
+<span class='anchor' id='news'></span>
 
 # 📢 News and updates
 <div style="max-height: 250px; overflow-y: auto; padding: 10px; border: 1px solid #eee; border-radius: 5px;">
