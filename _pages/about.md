@@ -21,11 +21,13 @@ redirect_from:
 I graduated from College of Intelligent Systems Science and Engineering, [Harbin engineering university](https://cisse.hrbeu.edu.cn/) (哈尔滨工程大学智能科学与工程学院) with a bachelor’s degree. Now, I’m pursuing my master’s degree in University of Chinese Academy of Science (中国科学院大学), advised by [Chang Liu](https://dblp.uni-trier.de/pid/52/5716-9.html) (刘畅).-->
 
 # 👨‍💻 About Me
-I am an **Autonomous Driving Engineer** at the **2030 LAB, Yinwang (Huawei Intelligent Automotive Solution BU)**. My work is dedicated to developing the next generation of autonomous driving systems, specifically focusing on Vision-Language-Action (VLA) models, World Models, and robust perception architectures for end-to-end driving.
+I am an **Autonomous Driving Engineer** at the **2030 LAB, Yinwang (Huawei Intelligent Automotive Solution BU)**. My work is dedicated to developing the next generation of autonomous driving systems, specifically focusing on:
 
-  - **Foundation Models** for Driving: VLA/VLM architectures, World Models for future state prediction, and Large Multi-modal Models (LMM) for scene understanding.
+  - **Foundation Models**: VLA/VLM, World Models
 
-  - **End-to-End Autonomous Driving**: Developing unified pipelines that integrate high-level logical reasoning with low-level motion control and perception-action alignment.
+  - **End-to-End Autonomous Driving**: PV/BEV Perception, sensor fusion, trajectory planning, perception-action alignment
+
+  - **AI Infra**: Memory Optimization, Streaming Inference, Token Compression
 
 I earned my Master’s degree from the University of Chinese Academy of Sciences (UCAS), where I conducted my research at the Shenzhen Institute of Advanced Technology (SIAT). Prior to that, I received my Bachelor’s degree with honor from the College of Intelligent Systems Science and Engineering at Harbin Engineering University. My previous research expertise is deeply rooted in classical perception and state estimation, with a specific focus on 6-DoF pose tracking, multi-view geometry, SLAM, and recursive filtering for safety-critical localization.
 
@@ -39,7 +41,7 @@ I have published 2 peer-reviewed SCI journal papers (***IEEE TIM*** , ***MST***)
     <li><strong>[2026.02]</strong> Our paper (Percept-WAM) was accepted by CVPR 2026</li>
     <li><strong>[2025.10]</strong> Our paper (Monocular-vision-based) was accepted by MST</li>
     <li><strong>[2025.06]</strong> Joined 2030 LAB, Yinwang (Huawei IAS BU)</li>
-    <li><strong>[2025.06]</strong> Our paper (Marker-less Head) was accepted by MICCAI</li>
+    <li><strong>[2025.06]</strong> Our paper (Marker-less Head) was accepted by MICCAI 2025</li>
     <li><strong>[2025.04]</strong> Our paper (Real-time Monocular) was accepted by IEEE TIM</li>
     <li><strong>[2024.10]</strong> Create this homepage</li>
     <li><strong>[2023.02]</strong> Our paper (Model-based visual) was accepted by IAC</li>
