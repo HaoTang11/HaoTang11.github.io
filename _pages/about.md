@@ -46,7 +46,7 @@ I have published 2 peer-reviewed SCI journal papers (***IEEE TIM*** , ***MST***)
     </ul>
 </div>
 
-<span class='anchor' id='education'></span>
+<span class='anchor' id='educations'></span>
 
 # 📖 Educations
 - 2022.09 - 2025.06, MSc. Computer Technology, University of Chinese Academy of Science, China (GPA: 3.82/4.00, rank: top 3%)
