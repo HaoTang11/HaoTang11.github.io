@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <!--I am now a master student in the [Shenzhen Institute of advanced technology](https://szs.siat.ac.cn/#/), Chinese Academy of science (中科院深圳先进技术研究院数字所).
-
 I graduated from College of Intelligent Systems Science and Engineering, [Harbin engineering university](https://cisse.hrbeu.edu.cn/) (哈尔滨工程大学智能科学与工程学院) with a bachelor’s degree. Now, I’m pursuing my master’s degree in University of Chinese Academy of Science (中国科学院大学), advised by [Chang Liu](https://dblp.uni-trier.de/pid/52/5716-9.html) (刘畅).-->
 
+# 🙋 About Me
 I am currently an **Autonomous Driving Engineer** in the **2030 LAB at Yinwang (Huawei IAS BU)**, focusing on **Vision-Language-Action (VLA)**, **World Models**, **Perception**, etc.
 
 Previously, I earned my Master’s degree from the University of Chinese Academy of Sciences and conducted research at the Shenzhen Institute of advanced technology (中科院深圳先进技术研究院数字所). I also hold a Bachelor’s degree from the College of Intelligent Systems Science and Engineering at Harbin Engineering University (哈尔滨工程大学智能科学与工程学院). My previous research included visual navigation, pose tracking and state estimation. 
@@ -54,7 +54,7 @@ Jianhua Han, ..., **Hao Tang**, ..., Hang Xu*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/mst.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Measurement Science and Technology, 2025, Published
+Monocular-vision-based non-cooperative spacecraft tracking for close-proximity missions
 
 **Hao Tang**, Chang Liu*, Qiuying Wang, Weiduo Hu
 
@@ -72,13 +72,13 @@ Measurement Science and Technology, 2025, Published
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based medical navigation</div><img src='images/paper4.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Marker-less Head Pose Tracking for Image-guided Cerebral Artery Navigation
+[Marker-less Head Pose Tracking for Image-guided Cerebral Artery Navigation](https://link.springer.com/chapter/10.1007/978-3-032-05114-1_34)
 
 Qiuyin Wang, Pandeng Zhang, Dewei Chen, **Hao Tang**, Chang Liu*, Jia Liu*
 
 *International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2025, Accepted
 
-[**Paper**] 
+[**Paper**](https://papers.miccai.org/miccai-2025/paper/1763_paper.pdf) 
 - 3D facial model construction from preoperative MRI data
 - A thin-plate spline function (TPSF) description encoding local geometry of facial model
 - Registeration between RGBD camera and the facial model by maximum weight matching
@@ -139,18 +139,14 @@ Chang Liu*, **Hao Tang**
 </div>
 </div>
 
-
-
-# 🔍 Projects
-
-
+<!--# 🔍 Projects-->
 
 # 🎖 Honors and Awards
 - 2024.05	Merit Student Award (top 3%), University of Chinese Academy of Science, China
 - 2023.03	Outstanding student award (top 5%), Shenzhen Institute of Advanced Technology, China
 - 2022.06	Graduation Thesis Awards (top 1%), Harbin Engineering University, China
 - 2022.06	Outstanding Graduate (top 3%), Harbin Engineering University, China
-- 2021.10	National Scholarship (top 1%), Ministry of Education, China
+- 2021.10	**National Scholarship** (top 1%), Ministry of Education, China
 - 2021.10	1st Prize (top 3%), Ti Cup National Undergraduate Electronic Design Contest, China
 - 2020.12	3rd Prize (top 15%), The Chinese Mathematics Competitions, China
 - 2020.10	3rd Prize (top 15%), China Undergraduate Mathematical Contest in Modeling, China
