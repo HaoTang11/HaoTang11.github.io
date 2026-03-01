@@ -20,15 +20,25 @@ redirect_from:
 <!--I am now a master student in the [Shenzhen Institute of advanced technology](https://szs.siat.ac.cn/#/), Chinese Academy of science (中科院深圳先进技术研究院数字所).
 I graduated from College of Intelligent Systems Science and Engineering, [Harbin engineering university](https://cisse.hrbeu.edu.cn/) (哈尔滨工程大学智能科学与工程学院) with a bachelor’s degree. Now, I’m pursuing my master’s degree in University of Chinese Academy of Science (中国科学院大学), advised by [Chang Liu](https://dblp.uni-trier.de/pid/52/5716-9.html) (刘畅).-->
 
-# 🙋 About Me
+# 👨‍💻 About Me
 I am an **Autonomous Driving Engineer** at the **2030 LAB, Yinwang (Huawei Intelligent Automotive Solution BU)**. My work is dedicated to developing the next generation of autonomous driving systems, specifically focusing on Vision-Language-Action (VLA) models, World Models, and robust perception architectures for end-to-end driving.
-
-I earned my Master’s degree from the University of Chinese Academy of Sciences (UCAS), where I conducted my research at the Shenzhen Institute of Advanced Technology (SIAT). Prior to that, I received my Bachelor’s degree from the College of Intelligent Systems Science and Engineering at Harbin Engineering University. My research expertise is deeply rooted in classical perception and state estimation, with a specific focus on 6-DoF pose tracking ($SO(3)/SE(3)$), multi-view geometry, SLAM, and recursive filtering for safety-critical localization.
-Generally, my current Research Interests are listed as follows: 
 -**Foundation Models** for Driving: VLA/VLM architectures, World Models for future state prediction, and Large Multi-modal Models (LMM) for scene understanding.
 -**End-to-End Autonomous Driving**: Developing unified pipelines that integrate high-level logical reasoning with low-level motion control and perception-action alignment.
 
+I earned my Master’s degree from the University of Chinese Academy of Sciences (UCAS), where I conducted my research at the Shenzhen Institute of Advanced Technology (SIAT). Prior to that, I received my Bachelor’s degree with honor from the College of Intelligent Systems Science and Engineering at Harbin Engineering University. My previous research expertise is deeply rooted in classical perception and state estimation, with a specific focus on 6-DoF pose tracking ($SO(3)/SE(3)$), multi-view geometry, SLAM, and recursive filtering for safety-critical localization.
+
 I have published 2 peer-reviewed SCI journal papers (***IEEE TIM*** , ***MST***), and 3 EI conference papers (***CVPR***, ***MICCAI***, ***IAC***).  I am open for the opportunty of collaboration. Feel free to contact me if there's anything I can help you.
+
+# 📢 News and updates
+<div style="max-height: 250px; overflow-y: auto; padding: 10px; border: 1px solid #eee; border-radius: 5px;">
+  <ul>
+    <li><strong>[2026.02]</strong> Our paper <strong>Percept-WAM</strong> has been accepted to <strong>CVPR 2026</strong>!</li>
+    <li><strong>[2025.10]</strong> Published a new journal paper on Spacecraft Tracking in <strong>IEEE TIM</strong>.</li>
+    <li><strong>[2025.07]</strong> Joined <strong>2030 LAB, Yinwang (Huawei IAS BU)</strong>.</li>
+    <li><strong>[2025.06]</strong> Graduated with a Master's degree from <strong>UCAS (SIAT)</strong>.</li>
+    <li><strong>[2025.05]</strong> Awarded Merit Student Award at UCAS.</li>
+    </ul>
+</div>
 
 # 📖 Educations
 - 2022.09 - 2025.06, MSc. Computer Technology, University of Chinese Academy of Science, China (GPA: 3.82/4.00, rank: top 3%)
@@ -45,7 +55,7 @@ Jianhua Han, ..., **Hao Tang**, ..., Hang Xu*
 
 *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2026, Accepted 
 
-[**Paper**](https://arxiv.org/abs/2511.19221)
+[**Paper**](https://arxiv.org/abs/2511.19221) [**video**](https://www.youtube.com/watch?v=YLM0_YLPZxk&t=93s)
 - unified 2D/3D tokenization (World-PV/BEV) for holistic scene understanding within a VLM
 - grid-conditioned prediction with IoU-aware parallel decoding for dense object perception
 - streaming inference via a memory-enabled recursive framework for temporal consistency
@@ -144,7 +154,7 @@ Chang Liu*, **Hao Tang**
 
 <!--# 🔍 Projects-->
 
-# 🎖 Honors and Awards
+# 🎖️ Honors and Awards
 - 2024.05	Merit Student Award (top 3%), University of Chinese Academy of Science, China
 - 2023.03	Outstanding student award (top 5%), Shenzhen Institute of Advanced Technology, China
 - 2022.06	Graduation Thesis Awards (top 1%), Harbin Engineering University, China
