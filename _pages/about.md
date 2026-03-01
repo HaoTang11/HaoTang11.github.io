@@ -36,7 +36,7 @@ I have published 2 peer-reviewed SCI journal papers (***IEEE TIM*** , ***MST***)
   <ul>
     <li><strong>[2026.02]</strong> Our paper (Percept-WAM) was accepted by CVPR 2026</li>
     <li><strong>[2025.10]</strong> Our paper (Monocular-vision-based) was accepted by MST</li>
-    <li><strong>[2025.06]</strong> Joined <strong>2030 LAB, Yinwang (Huawei IAS BU)</li>
+    <li><strong>[2025.06]</strong> Joined 2030 LAB, Yinwang (Huawei IAS BU)</li>
     <li><strong>[2025.06]</strong> Our paper (Marker-less Head) was accepted by MICCAI</li>
     <li><strong>[2025.04]</strong> Our paper (Real-time Monocular) was accepted by IEEE TIM</li>
     <li><strong>[2023.02]</strong> Our paper (Model-based visual) was accepted by IAC</li>
