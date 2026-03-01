@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hao Tang (唐昊)"
-description              : "An Autonomous Driving Engineer in the 2030 LAB at Yinwang (引望/华为车bu). Focusing on visual perception, VLA and Multiple View Geometry."
+description              : "An Autonomous Driving Engineer in the 2030 LAB at Yinwang (引望/华为车bu)."
 repository               : "HaoTang11/HaoTang11.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hao Tang (唐昊)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of Chinese Academy of Science"
+  bio              :
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
