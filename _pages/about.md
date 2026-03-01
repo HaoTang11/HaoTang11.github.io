@@ -41,18 +41,18 @@ I have published 2 peer-reviewed SCI journal papers (***IEEE TIM*** , ***MST***)
     <li><strong>[2025.06]</strong> Joined 2030 LAB, Yinwang (Huawei IAS BU)</li>
     <li><strong>[2025.06]</strong> Our paper (Marker-less Head) was accepted by MICCAI</li>
     <li><strong>[2025.04]</strong> Our paper (Real-time Monocular) was accepted by IEEE TIM</li>
+    <li><strong>[2024.10]</strong> Create this homepage</li>
     <li><strong>[2023.02]</strong> Our paper (Model-based visual) was accepted by IAC</li>
-    <li><strong>[2023.02]</strong> Create this homepage</li>
     </ul>
 </div>
 
-<span class='anchor' id='-education'></span>
+<span class='anchor' id='education'></span>
 
 # 📖 Educations
 - 2022.09 - 2025.06, MSc. Computer Technology, University of Chinese Academy of Science, China (GPA: 3.82/4.00, rank: top 3%)
 - 2018.09 - 2022.06, BSc. Automation Engineering, Harbin Engineering University, China (GPA: 92.44/100, rank: top 3%)
 
-<span class='anchor' id='-publication'></span>
+<span class='anchor' id='publication'></span>
 
 # 📝 Publications 
 
@@ -164,7 +164,7 @@ Chang Liu*, **Hao Tang**
 
 <!--# 🔍 Projects-->
 
-<span class='anchor' id='-honors-and-awards'></span>
+<span class='anchor' id='honors-and-awards'></span>
 
 # 🎖️ Honors and Awards
 - 2024.05	Merit Student Award (top 3%), University of Chinese Academy of Science, China
@@ -177,12 +177,12 @@ Chang Liu*, **Hao Tang**
 - 2020.10	3rd Prize (top 15%), China Undergraduate Mathematical Contest in Modeling, China
 - 2020.08	1st Prize (top 5%), Mathematical modeling of the three northeastern provinces League, China
 
-<span class='anchor' id='-invited-talks'></span>
+<span class='anchor' id='invited-talks'></span>
 
 # 💬 Invited Talks
 - *2023.10*, H. Tang. Model-based visual 3D pose tracking of non-cooperative spacecraft in Close Range, the 74th International Astronautical Congress, Baku, Azerbaijan, October 2023. (invited speaker)
 
-<span class='anchor' id='-internships'></span>
+<span class='anchor' id='internships'></span>
 
 # 💻 Internships
 ***2023.06-2023.08*, Java Developer (full-time intern), Huawei Technologies Co. Ltd., China**
