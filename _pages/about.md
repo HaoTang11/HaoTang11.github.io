@@ -24,13 +24,12 @@ I graduated from College of Intelligent Systems Science and Engineering, [Harbin
 I am an **Autonomous Driving Engineer** at the **2030 LAB, Yinwang (Huawei Intelligent Automotive Solution BU)**. My work is dedicated to developing the next generation of autonomous driving systems, specifically focusing on Vision-Language-Action (VLA) models, World Models, and robust perception architectures for end-to-end driving.
 
 -**Foundation Models** for Driving: VLA/VLM architectures, World Models for future state prediction, and Large Multi-modal Models (LMM) for scene understanding.
+
 -**End-to-End Autonomous Driving**: Developing unified pipelines that integrate high-level logical reasoning with low-level motion control and perception-action alignment.
 
 I earned my Master’s degree from the University of Chinese Academy of Sciences (UCAS), where I conducted my research at the Shenzhen Institute of Advanced Technology (SIAT). Prior to that, I received my Bachelor’s degree with honor from the College of Intelligent Systems Science and Engineering at Harbin Engineering University. My previous research expertise is deeply rooted in classical perception and state estimation, with a specific focus on 6-DoF pose tracking, multi-view geometry, SLAM, and recursive filtering for safety-critical localization.
 
 I have published 2 peer-reviewed SCI journal papers (***IEEE TIM*** , ***MST***), and 3 EI conference papers (***CVPR***, ***MICCAI***, ***IAC***).  I am open for the opportunty of collaboration. Feel free to contact me if there's anything I can help you.
-
-<span class='anchor' id='news'></span>
 
 # 📢 News and updates
 <div style="max-height: 250px; overflow-y: auto; padding: 10px; border: 1px solid #eee; border-radius: 5px;">
@@ -45,13 +44,9 @@ I have published 2 peer-reviewed SCI journal papers (***IEEE TIM*** , ***MST***)
     </ul>
 </div>
 
-<span class='anchor' id='educations'></span>
-
 # 📖 Educations
 - 2022.09 - 2025.06, MSc. Computer Technology, University of Chinese Academy of Science, China (GPA: 3.82/4.00, rank: top 3%)
 - 2018.09 - 2022.06, BSc. Automation Engineering, Harbin Engineering University, China (GPA: 92.44/100, rank: top 3%)
-
-<span class='anchor' id='publications'></span>
 
 # 📝 Publications 
 
@@ -163,8 +158,6 @@ Chang Liu*, **Hao Tang**
 
 <!--# 🔍 Projects-->
 
-<span class='anchor' id='honors-and-awards'></span>
-
 # 🎖️ Honors and Awards
 - 2024.05	Merit Student Award (top 3%), University of Chinese Academy of Science, China
 - 2023.03	Outstanding student award (top 5%), Shenzhen Institute of Advanced Technology, China
@@ -176,12 +169,8 @@ Chang Liu*, **Hao Tang**
 - 2020.10	3rd Prize (top 15%), China Undergraduate Mathematical Contest in Modeling, China
 - 2020.08	1st Prize (top 5%), Mathematical modeling of the three northeastern provinces League, China
 
-<span class='anchor' id='invited-talks'></span>
-
 # 💬 Invited Talks
 - *2023.10*, H. Tang. Model-based visual 3D pose tracking of non-cooperative spacecraft in Close Range, the 74th International Astronautical Congress, Baku, Azerbaijan, October 2023. (invited speaker)
-
-<span class='anchor' id='-internships'></span>
 
 # 💻 Internships
 ***2023.06-2023.08*, Java Developer (full-time intern), Huawei Technologies Co. Ltd., China**
