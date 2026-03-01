@@ -52,7 +52,7 @@ I have published 2 peer-reviewed SCI journal papers (***IEEE TIM*** , ***MST***)
 - 2022.09 - 2025.06, MSc. Computer Technology, University of Chinese Academy of Science, China (GPA: 3.82/4.00, rank: top 3%)
 - 2018.09 - 2022.06, BSc. Automation Engineering, Harbin Engineering University, China (GPA: 92.44/100, rank: top 3%)
 
-<span class='anchor' id='publication'></span>
+<span class='anchor' id='publications'></span>
 
 # 📝 Publications 
 
