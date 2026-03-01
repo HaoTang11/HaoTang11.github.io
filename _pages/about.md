@@ -58,7 +58,7 @@ Jianhua Han, ..., **Hao Tang**, ..., Hang Xu*
 
 *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2026, Accepted 
 
-[**Paper**](https://arxiv.org/abs/2511.19221) [**video**](https://www.youtube.com/watch?v=YLM0_YLPZxk&t=93s)
+[**Paper**](https://arxiv.org/abs/2511.19221) [**Video**](https://www.youtube.com/watch?v=YLM0_YLPZxk&t=93s)
 - unified 2D/3D tokenization (World-PV/BEV) for holistic scene understanding within a VLM
 - grid-conditioned prediction with IoU-aware parallel decoding for dense object perception
 - streaming inference via a memory-enabled recursive framework for temporal consistency
