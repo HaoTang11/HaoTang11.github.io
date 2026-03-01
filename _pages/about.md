@@ -23,9 +23,9 @@ I graduated from College of Intelligent Systems Science and Engineering, [Harbin
 # 👨‍💻 About Me
 I am an **Autonomous Driving Engineer** at the **2030 LAB, Yinwang (Huawei Intelligent Automotive Solution BU)**. My work is dedicated to developing the next generation of autonomous driving systems, specifically focusing on Vision-Language-Action (VLA) models, World Models, and robust perception architectures for end-to-end driving.
 
--**Foundation Models** for Driving: VLA/VLM architectures, World Models for future state prediction, and Large Multi-modal Models (LMM) for scene understanding.
+  - **Foundation Models** for Driving: VLA/VLM architectures, World Models for future state prediction, and Large Multi-modal Models (LMM) for scene understanding.
 
--**End-to-End Autonomous Driving**: Developing unified pipelines that integrate high-level logical reasoning with low-level motion control and perception-action alignment.
+  - **End-to-End Autonomous Driving**: Developing unified pipelines that integrate high-level logical reasoning with low-level motion control and perception-action alignment.
 
 I earned my Master’s degree from the University of Chinese Academy of Sciences (UCAS), where I conducted my research at the Shenzhen Institute of Advanced Technology (SIAT). Prior to that, I received my Bachelor’s degree with honor from the College of Intelligent Systems Science and Engineering at Harbin Engineering University. My previous research expertise is deeply rooted in classical perception and state estimation, with a specific focus on 6-DoF pose tracking, multi-view geometry, SLAM, and recursive filtering for safety-critical localization.
 
