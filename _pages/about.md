@@ -81,7 +81,7 @@ Monocular-vision-based non-cooperative spacecraft tracking for close-proximity m
 - 2D-3D correspondence established via local geometric similarity and intensity consistency without GPU-based rendering
 - fast pose determination on SO(3) by minimizing segment-to-line distances using a Newton's method
 - temporal state estimation and refinement via Cubature Kalman Filter (CKF) based on a CTRV motion model
-- high-efficiency performance achieving 0.6°/0.5% average tracking error and 0.002s processing time per frame
+- high-efficiency performance achieving 0.6°/0.5% pose tracking error and 0.002s processing time per frame
 </div>
 </div>
 
