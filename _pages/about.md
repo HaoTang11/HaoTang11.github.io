@@ -43,7 +43,7 @@ I have published 2 peer-reviewed SCI journal papers (***IEEE TIM*** , ***MST***)
     <li><strong>[2025.06]</strong> Joined 2030 LAB, Yinwang (Huawei IAS BU)</li>
     <li><strong>[2025.06]</strong> Our paper (Marker-less Head) was accepted by MICCAI 2025</li>
     <li><strong>[2025.04]</strong> Our paper (Real-time Monocular) was accepted by IEEE TIM</li>
-    <li><strong>[2024.10]</strong> Create this homepage</li>
+    <li><strong>[2024.10]</strong> Create this website</li>
     <li><strong>[2023.02]</strong> Our paper (Model-based visual) was accepted by IAC</li>
     </ul>
 </div>
