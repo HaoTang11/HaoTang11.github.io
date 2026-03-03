@@ -21,7 +21,7 @@ redirect_from:
 I graduated from College of Intelligent Systems Science and Engineering, [Harbin engineering university](https://cisse.hrbeu.edu.cn/) (哈尔滨工程大学智能科学与工程学院) with a bachelor’s degree. Now, I’m pursuing my master’s degree in University of Chinese Academy of Science (中国科学院大学), advised by [Chang Liu](https://dblp.uni-trier.de/pid/52/5716-9.html) (刘畅).-->
 
 # 👨‍💻 About Me
-I am an **Autonomous Driving Engineer** at the **2030 LAB, [Yinwang](https://www.yinwang.com/cn/) ([Huawei Intelligent Automotive Solution BU](https://auto.huawei.com/cn/))**. My work is dedicated to developing the next generation of autonomous driving systems, specifically focusing on:
+I am an **Autonomous Driving Engineer** at the **2030 LAB, [Yinwang](https://www.yinwang.com/cn/) ([formerly Huawei Intelligent Automotive Solution BU](https://auto.huawei.com/cn/))**. My work is dedicated to developing the next generation of autonomous driving systems, specifically focusing on:
 
   - **Foundation Models**: VLA/VLM, World Models
 
