@@ -16,7 +16,8 @@
                 var paperId = element.getAttribute('data');
                 var pub = publications[paperId];
                 if (pub && pub['num_citations'] >= 5) {
-                    element.innerHTML = 'Citations: ' + pub['num_citations'] + ' | ';
+                    var badgeUrl = 'https://img.shields.io/badge/citations-' + pub['num_citations'] + '-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat';
+                    element.innerHTML = '<a href="https://scholar.google.com/citations?view_op=view_citation&user=geO5wcwAAAAJ&citation_for_view=' + paperId + '"><img src="' + badgeUrl + '" alt="citations"></a> ';
                 }
             });
         });
