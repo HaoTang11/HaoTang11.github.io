@@ -15,7 +15,7 @@
             Array.prototype.forEach.call(citationEles, function (element) {
                 var paperId = element.getAttribute('data');
                 var pub = publications[paperId];
-                if (pub && typeof pub['num_citations'] !== 'undefined') {
+                if (pub && pub['num_citations'] >= 5) {
                     element.innerHTML = 'Citations: ' + pub['num_citations'] + ' | ';
                 }
             });
