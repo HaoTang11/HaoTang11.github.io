@@ -28,7 +28,7 @@ I am an **Autonomous Driving Engineer** at the **2030 LAB, [Yinwang](https://www
 
 I earned my Master’s degree from the University of Chinese Academy of Sciences, and conducted my research at the Shenzhen Institute of Advanced Technology. Prior to that, I received my Bachelor’s degree with honor from the College of Intelligent Systems Science and Engineering at Harbin Engineering University. My previous research expertise is deeply rooted in classical perception and state estimation, with a specific focus on 6-DoF pose tracking, multi-view geometry, SLAM, and recursive filtering for safety-critical localization.
 
-I have published 2 peer-reviewed SCI journal papers (***IEEE TIM*** , ***MST***), and 3 EI conference papers (***CVPR***, ***MICCAI***, ***IAC***) with total <a href='https://scholar.google.com/citations?user=geO5wcwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I am open for the opportunty of collaboration. Feel free to contact me if there's anything I can help you.
+I have published 2 peer-reviewed SCI journal papers (***IEEE TIM*** , ***MST***), and 3 EI conference papers (***CVPR***, ***MICCAI***, ***IAC***) <a href='https://scholar.google.com/citations?user=geO5wcwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I am open for the opportunty of collaboration. Feel free to contact me if there's anything I can help you.
 
 <span class='anchor' id='news'></span>
 
