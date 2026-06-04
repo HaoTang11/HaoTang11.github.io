@@ -28,7 +28,7 @@ I am an **Autonomous Driving Engineer** at the **2030 LAB, [Yinwang](https://www
 
 I earned my Master’s degree from the University of Chinese Academy of Sciences, and conducted my research at the Shenzhen Institute of Advanced Technology. Prior to that, I received my Bachelor’s degree with honor from the College of Intelligent Systems Science and Engineering at Harbin Engineering University. My previous research expertise is deeply rooted in classical perception and state estimation, with a specific focus on 6-DoF pose tracking, multi-view geometry, SLAM, and recursive filtering for safety-critical localization.
 
-I have published 2 peer-reviewed SCI journal papers (***IEEE TIM*** , ***MST***), and 3 EI conference papers (***CVPR***, ***MICCAI***, ***IAC***).  I am open for the opportunty of collaboration. Feel free to contact me if there's anything I can help you.
+I have published 2 peer-reviewed SCI journal papers (***IEEE TIM*** , ***MST***), and 3 EI conference papers (***CVPR***, ***MICCAI***, ***IAC***), with total <a href='https://scholar.google.com/citations?user=geO5wcwAAAAJ'>Google Scholar citations <strong><span id='total_cit'>0</span></strong></a> <a href='https://scholar.google.com/citations?user=geO5wcwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.  I am open for the opportunty of collaboration. Feel free to contact me if there's anything I can help you.
 
 <span class='anchor' id='news'></span>
 
@@ -64,7 +64,7 @@ Jianhua Han, ..., **Hao Tang**, ..., Hang Xu*
 
 *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2026, Accepted 
 
-<span class='show_paper_citations' data='geO5wcwAAAAJ:ufrVoPGSRksC'></span>[**Paper**](https://arxiv.org/abs/2511.19221) [**Video**](https://www.youtube.com/watch?v=YLM0_YLPZxk&t=93s)
+<strong><span class='show_paper_citations' data='geO5wcwAAAAJ:ufrVoPGSRksC'></span></strong>[**Paper**](https://arxiv.org/abs/2511.19221) [**Video**](https://www.youtube.com/watch?v=YLM0_YLPZxk&t=93s)
 - unified 2D/3D tokenization (World-PV/BEV) for holistic scene understanding within a VLM
 - grid-conditioned prediction with IoU-aware parallel decoding for dense object perception
 - streaming inference via a memory-enabled recursive framework for temporal consistency
@@ -82,7 +82,7 @@ Monocular-vision-based non-cooperative spacecraft tracking for close-proximity m
 
 *Measurement Science and Technology*, 2025, Published
 
-<span class='show_paper_citations' data='geO5wcwAAAAJ:_FxGoFyzp5QC'></span>[**Paper**](https://iopscience.iop.org/article/10.1088/1361-6501/ae1a06/meta)
+<strong><span class='show_paper_citations' data='geO5wcwAAAAJ:_FxGoFyzp5QC'></span></strong>[**Paper**](https://iopscience.iop.org/article/10.1088/1361-6501/ae1a06/meta)
 - offline extraction and parameterization of prominent 3D boundaries and contours from spacecraft mesh models
 - 2D-3D correspondence established via local geometric similarity and intensity consistency without GPU-based rendering
 - fast pose determination on SO(3) by minimizing segment-to-line distances using a Newton's method
@@ -100,7 +100,7 @@ Qiuyin Wang, Pandeng Zhang, Dewei Chen, **Hao Tang**, Chang Liu*, Jia Liu*
 
 *International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2025, Accepted
 
-<span class='show_paper_citations' data='geO5wcwAAAAJ:LkGwnXOMwfcC'></span>[**Paper**](https://papers.miccai.org/miccai-2025/paper/1763_paper.pdf) 
+<strong><span class='show_paper_citations' data='geO5wcwAAAAJ:LkGwnXOMwfcC'></span></strong>[**Paper**](https://papers.miccai.org/miccai-2025/paper/1763_paper.pdf) 
 - 3D facial model construction from preoperative MRI data
 - A thin-plate spline function (TPSF) description encoding local geometry of facial model
 - Registeration between RGBD camera and the facial model by maximum weight matching
@@ -117,7 +117,7 @@ Real-time Monocular 3D Pose Tracking for Non-cooperative Spacecraft in Close Ran
 
 *IEEE Transactions on Instrumentation and Measurement*, 2025, Published 
 
-<span class='show_paper_citations' data='geO5wcwAAAAJ:WF5omc3nYNoC'></span>[**Paper**](https://ieeexplore.ieee.org/abstract/document/11002620)
+<strong><span class='show_paper_citations' data='geO5wcwAAAAJ:WF5omc3nYNoC'></span></strong>[**Paper**](https://ieeexplore.ieee.org/abstract/document/11002620)
 - automatic extraction and parameterization of the geometric features (arbitrary 3D boundaries and contour) given the spacecraft mesh model
 - 2D-3D correspondence based on conditional linear random field
 - real-time pose estimation in SE(3) based on Newton method
@@ -135,7 +135,7 @@ Chang Liu*, **Hao Tang**
 
 *Proceedings of the 74th International Astronautical Congress (IAC)*, 2023, Published 
 
-<span class='show_paper_citations' data='geO5wcwAAAAJ:eQOLeE2rZwMC'></span>[**Paper**](https://www.engineeringvillage.com/app/doc/?docid=cpx_M6d3c13d618e770d7715M650410178165153&pageSize=25&index=1&searchId=a9df5555e93749cc9b9c6dc33dedf516&resultsCount=1&usageZone=resultslist&usageOrigin=searchresults&searchType=Quick)
+<strong><span class='show_paper_citations' data='geO5wcwAAAAJ:eQOLeE2rZwMC'></span></strong>[**Paper**](https://www.engineeringvillage.com/app/doc/?docid=cpx_M6d3c13d618e770d7715M650410178165153&pageSize=25&index=1&searchId=a9df5555e93749cc9b9c6dc33dedf516&resultsCount=1&usageZone=resultslist&usageOrigin=searchresults&searchType=Quick)
 - automatic extraction and parametrization for the 3D boundaries and 3D contour of a spacecraft
 - data correspondence based on truncated gaussian distribution
 - real-time pose determination based on minimization of segment-to-line distance
