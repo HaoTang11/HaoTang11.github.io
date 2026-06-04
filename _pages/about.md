@@ -17,9 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<!--I am now a master student in the [Shenzhen Institute of advanced technology](https://szs.siat.ac.cn/#/), Chinese Academy of science (中科院深圳先进技术研究院数字所).
-I graduated from College of Intelligent Systems Science and Engineering, [Harbin engineering university](https://cisse.hrbeu.edu.cn/) (哈尔滨工程大学智能科学与工程学院) with a bachelor’s degree. Now, I’m pursuing my master’s degree in University of Chinese Academy of Science (中国科学院大学), advised by [Chang Liu](https://dblp.uni-trier.de/pid/52/5716-9.html) (刘畅).-->
-
 # 👨‍💻 About Me
 I am an **Autonomous Driving Engineer** at the **2030 LAB, [Yinwang](https://www.yinwang.com/cn/) ([formerly Huawei Intelligent Automotive Solution BU](https://auto.huawei.com/cn/))**. My work is dedicated to developing the next generation of autonomous driving systems, specifically focusing on:
 
@@ -67,7 +64,7 @@ Jianhua Han, ..., **Hao Tang**, ..., Hang Xu*
 
 *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2026, Accepted 
 
-[**Paper**](https://arxiv.org/abs/2511.19221) [**Video**](https://www.youtube.com/watch?v=YLM0_YLPZxk&t=93s)
+<span class='show_paper_citations' data='geO5wcwAAAAJ:REPLACE_WITH_PERCEPT_WAM_ID'></span>[**Paper**](https://arxiv.org/abs/2511.19221) [**Video**](https://www.youtube.com/watch?v=YLM0_YLPZxk&t=93s)
 - unified 2D/3D tokenization (World-PV/BEV) for holistic scene understanding within a VLM
 - grid-conditioned prediction with IoU-aware parallel decoding for dense object perception
 - streaming inference via a memory-enabled recursive framework for temporal consistency
@@ -85,7 +82,7 @@ Monocular-vision-based non-cooperative spacecraft tracking for close-proximity m
 
 *Measurement Science and Technology*, 2025, Published
 
-[**Paper**](https://iopscience.iop.org/article/10.1088/1361-6501/ae1a06/meta)
+<span class='show_paper_citations' data='geO5wcwAAAAJ:REPLACE_WITH_MST_ID'></span>[**Paper**](https://iopscience.iop.org/article/10.1088/1361-6501/ae1a06/meta)
 - offline extraction and parameterization of prominent 3D boundaries and contours from spacecraft mesh models
 - 2D-3D correspondence established via local geometric similarity and intensity consistency without GPU-based rendering
 - fast pose determination on SO(3) by minimizing segment-to-line distances using a Newton's method
@@ -103,7 +100,7 @@ Qiuyin Wang, Pandeng Zhang, Dewei Chen, **Hao Tang**, Chang Liu*, Jia Liu*
 
 *International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2025, Accepted
 
-[**Paper**](https://papers.miccai.org/miccai-2025/paper/1763_paper.pdf) 
+<span class='show_paper_citations' data='geO5wcwAAAAJ:REPLACE_WITH_MICCAI_ID'></span>[**Paper**](https://papers.miccai.org/miccai-2025/paper/1763_paper.pdf) 
 - 3D facial model construction from preoperative MRI data
 - A thin-plate spline function (TPSF) description encoding local geometry of facial model
 - Registeration between RGBD camera and the facial model by maximum weight matching
@@ -120,7 +117,7 @@ Real-time Monocular 3D Pose Tracking for Non-cooperative Spacecraft in Close Ran
 
 *IEEE Transactions on Instrumentation and Measurement*, 2025, Published 
 
-[**Paper**](https://ieeexplore.ieee.org/abstract/document/11002620)
+<span class='show_paper_citations' data='geO5wcwAAAAJ:REPLACE_WITH_TIM_ID'></span>[**Paper**](https://ieeexplore.ieee.org/abstract/document/11002620)
 - automatic extraction and parameterization of the geometric features (arbitrary 3D boundaries and contour) given the spacecraft mesh model
 - 2D-3D correspondence based on conditional linear random field
 - real-time pose estimation in SE(3) based on Newton method
@@ -128,24 +125,6 @@ Real-time Monocular 3D Pose Tracking for Non-cooperative Spacecraft in Close Ran
 - ESKF based on second-order autoregression in SE(3)
 </div>
 </div>
-
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Model-based monocular 6-degree-of-freedom pose tracking for asteroid](https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2024.1337262/full)
-
-**Hao Tang**, Chang Liu* (supervisor), Yuzhu Su, Qiuyin Wang, Weiduo Hu
-
-*Frontiers in Space Technologies*, Published 
-
-[**Paper**](https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2024.1337262/full)
-- we propose a robust 2D-3D correspondence method based on the covariance of the pose.
-- we determine the asteroid pose by minimizing the angles between the projection planes of the extracted 3D contour segments and the back-projection lines of the corresponding 2D edge points.
-- we infer the covariance matrix of the estimated pose based on the first-order optimality of the pose optimization.
-- we use 2nd-AR-based SCKF to give the final pose estimate and initialize the pose tracking at the next time instant. 
-</div>
-</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-based pose tracking</div><img src='images/iac.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -156,15 +135,13 @@ Chang Liu*, **Hao Tang**
 
 *Proceedings of the 74th International Astronautical Congress (IAC)*, 2023, Published 
 
-[**Paper**](https://www.engineeringvillage.com/app/doc/?docid=cpx_M6d3c13d618e770d7715M650410178165153&pageSize=25&index=1&searchId=a9df5555e93749cc9b9c6dc33dedf516&resultsCount=1&usageZone=resultslist&usageOrigin=searchresults&searchType=Quick)
+<span class='show_paper_citations' data='geO5wcwAAAAJ:REPLACE_WITH_IAC_ID'></span>[**Paper**](https://www.engineeringvillage.com/app/doc/?docid=cpx_M6d3c13d618e770d7715M650410178165153&pageSize=25&index=1&searchId=a9df5555e93749cc9b9c6dc33dedf516&resultsCount=1&usageZone=resultslist&usageOrigin=searchresults&searchType=Quick)
 - automatic extraction and parametrization for the 3D boundaries and 3D contour of a spacecraft
 - data correspondence based on truncated gaussian distribution
 - real-time pose determination based on minimization of segment-to-line distance
 - the first-order inference to covariance matrix of the estimated pose.
 </div>
 </div>
-
-<!--# 🔍 Projects-->
 
 <span class='anchor' id='honors-and-awards'></span>
 

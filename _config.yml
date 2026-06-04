@@ -26,37 +26,14 @@ author:
   bio              :
   location         : "Shanghai, China"
   employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=geO5wcwAAAAJ"
   email            : "tanghao_813@163.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  #github           : "HaoTang11"# e.g., 
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  googlescholar    : "https://scholar.google.com/citations?user=geO5wcwAAAAJ"
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0009-8400-0270"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  # Optional links (uncomment to enable):
+  # researchgate   : "https://www.researchgate.net/profile/yourprofile"
+  # github         : "HaoTang11"
+  # linkedin       : "linkedin-username"
+  # dblp           : "https://dblp.org/pid/xx/xxxx.html"
 
 
 # Reading Files
