@@ -10,12 +10,16 @@
             if (totalCitEl) {
                 totalCitEl.innerHTML = data['citedby'];
             }
+            var totalCitBadge = document.getElementById('total_cit_badge');
+            if (totalCitBadge && data['citedby'] >= 50) {
+                totalCitBadge.style.display = 'inline';
+            }
             var publications = data['publications'] || {};
             var citationEles = document.getElementsByClassName('show_paper_citations');
             Array.prototype.forEach.call(citationEles, function (element) {
                 var paperId = element.getAttribute('data');
                 var pub = publications[paperId];
-                if (pub && pub['num_citations'] >= 5) {
+                if (pub && pub['num_citations'] >= 10) {
                     var badgeUrl = 'https://img.shields.io/badge/citations-' + pub['num_citations'] + '-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat';
                     element.innerHTML = '<a href="https://scholar.google.com/citations?view_op=view_citation&user=geO5wcwAAAAJ&citation_for_view=' + paperId + '"><img src="' + badgeUrl + '" alt="citations"></a> ';
                 }
