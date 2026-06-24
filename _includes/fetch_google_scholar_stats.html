@@ -12,6 +12,8 @@
             }
             var totalCitBadge = document.getElementById('total_cit_badge');
             if (totalCitBadge && data['citedby'] >= 50) {
+                var totalCitImg = document.getElementById('total_cit_img');
+                totalCitImg.src = 'https://img.shields.io/badge/citations-' + data['citedby'] + '-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat';
                 totalCitBadge.style.display = 'inline';
             }
             var publications = data['publications'] || {};
@@ -19,7 +21,7 @@
             Array.prototype.forEach.call(citationEles, function (element) {
                 var paperId = element.getAttribute('data');
                 var pub = publications[paperId];
-                if (pub && pub['num_citations'] >= 10) {
+                if (pub && pub['num_citations'] >= 20) {
                     var badgeUrl = 'https://img.shields.io/badge/citations-' + pub['num_citations'] + '-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat';
                     element.innerHTML = '<a href="https://scholar.google.com/citations?view_op=view_citation&user=geO5wcwAAAAJ&citation_for_view=' + paperId + '"><img src="' + badgeUrl + '" alt="citations"></a> ';
                 }
